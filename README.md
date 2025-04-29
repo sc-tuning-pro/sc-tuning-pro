@@ -63,6 +63,14 @@ Stay tuned!
 
 ---
 
+## License
+
+All content in this repository is licensed under the [MIT License](./LICENSE).
+You are free to use, modify, and distribute the materials povided attribution is maintained.
+Please review the [LICENSE](./LICENSE) file for full terms.
+
+---
+
 # 🏋️ Precision, Data, and Evolution.
 
 > Powered by SC-Tuning Core.
