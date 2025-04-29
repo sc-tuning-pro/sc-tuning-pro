@@ -1,49 +1,26 @@
-# SC-Tuning Pro
+# SC Tuning Pro
 
-## Overview
+Welcome to **SC Tuning Pro** — where data meets precision.
 
-**SC-Tuning Pro** is the public-facing branch of the SC-Tuning project.  
-We apply advanced telemetry analysis, intelligent tuning pipelines, and deep simulation-based validation to create **elite vehicle performance profiles** for *Forza Motorsport 7* (and future racing platforms).
-
-SC-Tuning Pro represents the **polished outcome** of internal R&D conducted in the SC-Tuning Core system — bridging the gap between raw telemetry science and track-ready precision.
+This is the public-facing project hub for SC Tuning's work on telemetry-driven vehicle tuning, live performance optimization, and competitive multiplayer analysis for Forza Motorsport 7 and beyond.
 
 ---
 
-## Vision
+## What We Do
 
-- Deliver the **most accurate**, **data-driven**, and **field-tested** vehicle tunes available.
-- Make **elite performance optimization** accessible to all players through public calculators, guides, and downloadable setups.
-- Push the boundaries of what is possible with **machine-assisted racing telemetry** and **meta-analysis**.
-- Build a **community knowledge base** that continues to evolve as cars, tracks, and player needs evolve.
-
----
-
-## Repository Structure
-
-```plaintext
-/
-├── products/          # Published calculators, tune packs, analysis tools
-│   ├— tuning-calculator.md
-│   ├— public-tunes.md
-│   └— blog-ideas.md
-└— docs/              # Public documentation, methodology, changelogs
-```
+- 🧠 Build real-time telemetry capture and analysis pipelines
+- 🏎️ Tune cars for elite agility, rotation, and corner control
+- 📊 Analyze G-force, braking efficiency, acceleration, slip, and more
+- 🎯 Deliver tuning packs, calculators, and guides to the community
 
 ---
 
-## What You Will Find Here
+## Coming Soon
 
-- **Tuning Calculators:**  
-  Lightweight tools for fast and effective setup baselines.
-
-- **Elite Tunes:**  
-  Curated, field-tested vehicle builds optimized for Virus Tag, competitive lobbies, and time attack.
-
-- **Tuning Guides and Playbooks:**  
-  How-to manuals based on real telemetry data, not guesswork.
-
-- **Meta-Analysis:**  
-  Performance insights drawn from aggregate telemetry patterns across cars, classes, and tracks.
+- 🧪 Web-based tuning calculators (grip, acceleration, Cat1/2 tuning logic)
+- 📂 Tune archives and performance examples
+- 📚 Open guides on telemetry metrics and driving analysis
+- 🌐 Integration with sc-tuning.pro (site + docs + calculator portal)
 
 ---
 
@@ -55,11 +32,22 @@ SC-Tuning Pro represents the **polished outcome** of internal R&D conducted in t
 
 ---
 
+## License
+
+This project uses a multi-tiered license structure:
+
+- Source code and tools are licensed under the [MIT License](./LICENSE)
+- Any GPLv3-derived work is noted individually and retains that license
+- Written guides and diagrams are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+See the [LICENSE](./LICENSE) file for full terms.
+
+---
+
 ## Status
 
 **🚧 Early Launch Phase (v0.1 Pro)**  
 Initial calculators and tuning packs are being prepared for public release.  
-Stay tuned!
 
 ---
 
@@ -73,6 +61,7 @@ Please review the [LICENSE](./LICENSE) file for full terms.
 
 # 🏋️ Precision, Data, and Evolution.
 
-> Powered by SC-Tuning Core.
+This project is actively evolving. Contributions, ideas, and telemetry conversations welcome.  
 
+> Powered by SC-Tuning Core.
 
