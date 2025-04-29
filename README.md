@@ -1,67 +1,54 @@
 # SC Tuning Pro
 
-Welcome to **SC Tuning Pro** — where data meets precision.
+Welcome to **SC Tuning Pro** — where data meets performance.
 
-This is the public-facing project hub for SC Tuning's work on telemetry-driven vehicle tuning, live performance optimization, and competitive multiplayer analysis for Forza Motorsport 7 and beyond.
+This repository serves as the **public-facing interface** of the SC Tuning ecosystem. It provides tools, calculators, and guides for players who want to access the benefits of telemetry-based tuning without having to study the raw internals.
 
----
-
-## What We Do
-
-- 🧠 Build real-time telemetry capture and analysis pipelines
-- 🏎️ Tune cars for elite agility, rotation, and corner control
-- 📊 Analyze G-force, braking efficiency, acceleration, slip, and more
-- 🎯 Deliver tuning packs, calculators, and guides to the community
+> 🔄 If you're looking for the open-source internals or research tools, see [SC Tuning Core Public](https://github.com/sc-tuning-core-public).
 
 ---
 
-## Coming Soon
+## 🏦 Purpose
 
-- 🧪 Web-based tuning calculators (grip, acceleration, Cat1/2 tuning logic)
-- 📂 Tune archives and performance examples
-- 📚 Open guides on telemetry metrics and driving analysis
-- 🌐 Integration with sc-tuning.pro (site + docs + calculator portal)
+**SC Tuning Pro** delivers the curated, accessible layer of our system. It's where tuned cars, optimization tools, and competitive setups are published.
 
----
-
-## Relationship to SC-Tuning Core
-
-- **SC-Tuning Core** is the experimental, internal engine.  
-- **SC-Tuning Pro** is the distilled, proven result of that research.
-- Only validated, documented setups and methodologies are promoted into Pro for public release.
+Our goal is to empower Forza Motorsport players with:
+- Clean user interfaces
+- Adaptive tuning calculators
+- Real-world telemetry-informed setups
 
 ---
 
-## License
+## 🔗 What You Can Expect Here
+
+- 🔊 Web-based tuning tools (e.g., grip, acceleration, cat1/cat2 targeting)
+- 📄 Community-ready tune packs and performance suggestions
+- 📚 Guides for interpreting tuning concepts and competitive performance metrics
+- ✨ Integrations with [sc-tuning.pro](https://sc-tuning.pro) site (soon)
+
+---
+
+## 🔎 When to Use This Repo
+
+Use **sc-tuning-pro** if you:
+- Want to *use* tuning tools (rather than study how they work)
+- Are looking for ready-to-go tune setups
+- Prefer interfaces and guides that skip the telemetry code
+
+---
+
+## 🙏 License
 
 This project uses a multi-tiered license structure:
 
-- Source code and tools are licensed under the [MIT License](./LICENSE)
-- Any GPLv3-derived work is noted individually and retains that license
-- Written guides and diagrams are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Source code and tools: [MIT License](./LICENSE)
+- Adapted GPLv3 content (if any): Noted individually
+- Writing and guides: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-See the [LICENSE](./LICENSE) file for full terms.
-
----
-
-## Status
-
-**🚧 Early Launch Phase (v0.1 Pro)**  
-Initial calculators and tuning packs are being prepared for public release.  
+See [LICENSE](./LICENSE) for full details.
 
 ---
 
-## License
+#forza #tuning #sc-tuning #telemetrytools #protools #racing
 
-All content in this repository is licensed under the [MIT License](./LICENSE).
-You are free to use, modify, and distribute the materials povided attribution is maintained.
-Please review the [LICENSE](./LICENSE) file for full terms.
-
----
-
-# 🏋️ Precision, Data, and Evolution.
-
-This project is actively evolving. Contributions, ideas, and telemetry conversations welcome.  
-
-> Powered by SC-Tuning Core.
 
